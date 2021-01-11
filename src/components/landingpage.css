@@ -1,0 +1,58 @@
+.image-container {
+	width: 200px;
+	height: 120px;
+	margin: auto;
+}
+
+.avatar-img {
+	width: 100%;
+	height: auto;
+	padding-top: 50px;
+	border-radius: 50%;
+}
+
+.banner-text {
+  background: #000;
+  opacity: 0.8;
+  width: 75%;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 12%;
+}
+
+.banner-text h1 {
+  font-size: 55px;
+  color: #FFF;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.banner-text hr {
+  border-top: 5px dotted white;
+  width: 50%;
+  margin: auto;
+}
+
+.banner-text p {
+  padding-top: 1em;
+  font-size: 20px;
+  color: #FFF;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.social-links {
+	display: flex;
+	justify-content: center;
+	width: 50%;
+	margin:auto;
+	padding:20px;
+}
+
+.social-links i {
+  color: white;
+  padding-left: 15px;
+  margin-bottom: 15px;
+  font-size: 3em;
+}
